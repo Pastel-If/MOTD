@@ -1,0 +1,11 @@
+name: MOTD
+main: io.github.pastelifx.motd.plugin.MotdPlugin
+version: 1.0.0
+api-version: 1.21
+commands:
+  motd:
+    description: MOTD 플러그인 명령어입니다.
+permissions:
+      motd.reload:
+        description: MOTD를 리로드할 수 있는 권한입니다.
+        default: op
