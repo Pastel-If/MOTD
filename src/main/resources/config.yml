@@ -3,7 +3,7 @@ use-motd: true
 
 # miniMessage 문법을 참고해주세요.
 motd:
-  - "<gradient:#8000ff:#ffffff><bold>⚡ MOTD 플러그인 기본 텍스트 ⚡</bold></gradient>"
+  - "<gradient:#A8E063:#ffffff><bold>⚡ MOTD 플러그인 기본 텍스트 ⚡</bold></gradient>"
   - "<white>서버에 오신 걸 환영합니다!</white>"
 
 # server-icon 기능을 사용할 지 여부 (true/false)
